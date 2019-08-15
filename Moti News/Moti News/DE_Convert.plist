@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ColorAddPositiveColorAndEmoji</key>
+	<dict>
+		<key>Fußball-EM</key>
+		<string>⚽️</string>
+		<key>Reis</key>
+		<string>🍙</string>
+	</dict>
+	<key>ColorAddPositive</key>
+	<array>
+		<string>gewinnen</string>
+		<string>Europameister</string>
+		<string>schön</string>
+		<string>Hoffnung</string>
+		<string>Tore</string>
+		<string>sagt</string>
+		<string>mehr</string>
+		<string>Sieg</string>
+		<string>gewonnen</string>
+	</array>
+	<key>CountriesColorAndEmoji</key>
+	<dict>
+		<key>USA</key>
+		<string>🇺🇸</string>
+		<key>Litauen</key>
+		<string>🇱🇹</string>
+		<key>Deutschland</key>
+		<string>🇩🇪</string>
+		<key>Frankreich</key>
+		<string>🇫🇷</string>
+		<key>Italien</key>
+		<string>🇮🇹</string>
+		<key>England</key>
+		<string>🇬🇧</string>
+	</dict>
+	<key>Numbers</key>
+	<dict>
+		<key>7</key>
+		<string>7️⃣</string>
+		<key>3</key>
+		<string>3️⃣</string>
+		<key>8</key>
+		<string>8️⃣</string>
+		<key>4</key>
+		<string>4️⃣</string>
+		<key>0</key>
+		<string>0️⃣</string>
+		<key>9</key>
+		<string>9️⃣</string>
+		<key>5</key>
+		<string>5️⃣</string>
+		<key>1</key>
+		<string>1️⃣</string>
+		<key>6</key>
+		<string>6️⃣</string>
+		<key>2</key>
+		<string>2️⃣</string>
+	</dict>
+	<key>ColorAddNegative</key>
+	<array>
+		<string>verboten</string>
+		<string>Todesfall</string>
+		<string>Unglück</string>
+		<string>Anschlag</string>
+		<string>Tornado</string>
+		<string>schreckliches</string>
+	</array>
+	<key>ColorAddNegativeColorAndEmoji</key>
+	<dict>
+		<key>Bombe</key>
+		<string>💣</string>
+		<key>tötet</key>
+		<string>☠️</string>
+	</dict>
+</dict>
+</plist>
